@@ -2,10 +2,10 @@
 <resources>
     <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки.</string>
     <string name="permdesc_bluetoothShareManager">Приложение получит доступ к диспетчеру обмена файлами по Bluetooth и сможет использовать его для передачи файлов.</string>
-    <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
-    <string name="permdesc_bluetoothWhitelist">Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
-    <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
-    <string name="permdesc_handoverStatus">Allows receiving handover transfer status information from Bluetooth.</string>
+    <string name="permlab_bluetoothWhitelist">Доступ для устройств Bluetooth из белого списка.</string>
+    <string name="permdesc_bluetoothWhitelist">Приложение сможет временно внести устройство Bluetooth в белый список и разрешит ему отправлять файлы на ваше устройство, не требуя от вас подтверждения.</string>
+    <string name="permlab_handoverStatus">Получать уведомления о передаче от устройства Bluetooth.</string>
+    <string name="permdesc_handoverStatus">Получать сведения о состоянии передачи от устройства Bluetooth.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">Неизвестное устройство</string>
     <string name="unknownNumber">Неизвестно</string>
@@ -39,7 +39,7 @@
     <string name="download_line1">От: \"%1$s\"</string>
     <string name="download_line2">Файл: %1$s</string>
     <string name="download_line3">Размер файла: %1$s</string>
-    <string name="download_line4" />
+
     <string name="download_line5">Получение файла...</string>
     <string name="download_cancel">Остановить</string>
     <string name="download_ok">Скрыть</string>
@@ -103,10 +103,10 @@
     <string name="transfer_menu_clear">Удалить из списка</string>
     <string name="transfer_clear_dlg_title">Очистить</string>
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
-    <string name="sharedUserId" />
-    <string name="process" />
-    <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
-    <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
+
+
+    <string name="upload_fail_waiting">Не удалось отправить файл. Через некоторое время будет предпринята повторная попытка</string>
+    <string name="bluetooth_in_airplane_mode">Режим полёта</string>
     <string name="pbap_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
     <string name="pbap_session_key_dialog_header">Необходим ключ сеанса Bluetooth.</string>
     <string name="pbap_acceptance_timeout_message">Истекло время ожидания при установке подключения к %1$s.</string>

@@ -159,65 +159,65 @@
         <item>not_responded</item>
     </string-array>
     <string-array name="recurrence_freq">
-        <item>REPEAT DAILY</item>
-        <item>REPEAT WEEKLY</item>
-        <item>REPEAT MONTHLY</item>
-        <item>REPEAT YEARLY</item>
+        <item>ЕЖЕДНЕВНЫЙ ПОВТОР</item>
+        <item>ЕЖЕНЕДЕЛЬНЫЙ ПОВТОР</item>
+        <item>ЕЖЕМЕСЯЧНЫЙ ПОВТОР</item>
+        <item>ПОВТОР КАЖДЫЙ ГОД</item>
     </string-array>
     <string-array name="repeat_by_nth_sun">
-        <item>on every first Sunday</item>
-        <item>on every second Sunday</item>
-        <item>on every third Sunday</item>
-        <item>on every fourth Sunday</item>
-        <item>on every last Sunday</item>
+        <item>каждое первое Воскресенье</item>
+        <item>каждое второе Воскресенье</item>
+        <item>каждое третье Воскресенье</item>
+        <item>каждое четвёртое Воскресенье</item>
+        <item>каждое последнее Воскресенье</item>
     </string-array>
     <string-array name="repeat_by_nth_mon">
-        <item>on every first Monday</item>
-        <item>on every second Monday</item>
-        <item>on every third Monday</item>
-        <item>on every fourth Monday</item>
-        <item>on every last Monday</item>
+        <item>каждый первый Понедельник</item>
+        <item>каждый второй Понедельник</item>
+        <item>каждый третий Понедельник</item>
+        <item>каждый четвёртый Понедельник</item>
+        <item>каждый последний Понедельник</item>
     </string-array>
     <string-array name="repeat_by_nth_tues">
-        <item>on every first Tuesday</item>
-        <item>on every second Tuesday</item>
-        <item>on every third Tuesday</item>
-        <item>on every fourth Tuesday</item>
-        <item>on every last Tuesday</item>
+        <item>каждый первый Вторник</item>
+        <item>каждый второй Вторник</item>
+        <item>каждый третий Вторник</item>
+        <item>каждый четвёртый Вторник</item>
+        <item>каждый последний Вторник</item>
     </string-array>
     <string-array name="repeat_by_nth_wed">
-        <item>on every first Wednesday</item>
-        <item>on every second Wednesday</item>
-        <item>on every third Wednesday</item>
-        <item>on every fourth Wednesday</item>
-        <item>on every last Wednesday</item>
+        <item>каждую первую Среда</item>
+        <item>каждую вторую Среда</item>
+        <item>каждую третью Среда</item>
+        <item>каждую четвёртую Среда</item>
+        <item>каждую последнюю Среда</item>
     </string-array>
     <string-array name="repeat_by_nth_thurs">
-        <item>on every first Thursday</item>
-        <item>on every second Thursday</item>
-        <item>on every third Thursday</item>
-        <item>on every fourth Thursday</item>
-        <item>on every last Thursday</item>
+        <item>каждый первый Четверг</item>
+        <item>каждый второй Четверг</item>
+        <item>каждый третий Четверг</item>
+        <item>каждый четвёртый Четверг</item>
+        <item>каждый последний Четверг</item>
     </string-array>
     <string-array name="repeat_by_nth_fri">
-        <item>on every first Friday</item>
-        <item>on every second Friday</item>
-        <item>on every third Friday</item>
-        <item>on every fourth Friday</item>
-        <item>on every last Friday</item>
+        <item>каждую первую Пятница</item>
+        <item>каждую вторую Пятница</item>
+        <item>каждую третью Пятница</item>
+        <item>каждую четвёртую Пятница</item>
+        <item>каждую последнюю Пятница</item>
     </string-array>
     <string-array name="repeat_by_nth_sat">
-        <item>on every first Saturday</item>
-        <item>on every second Saturday</item>
-        <item>on every third Saturday</item>
-        <item>on every fourth Saturday</item>
-        <item>on every last Saturday</item>
+        <item>каждую первую Суббота</item>
+        <item>каждую вторую Суббота</item>
+        <item>каждую третью Суббота</item>
+        <item>каждую четвёртую Суббота</item>
+        <item>каждую последнюю Суббота</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Running just a couple of minutes late.</item>
-        <item>Be there in about 10 minutes.</item>
-        <item>Go ahead and start without me.</item>
-        <item>"Sorry, I can't make it. We'll have to reschedule."</item>
+        <item>Задерживаюсь на пару минут.</item>
+        <item>Буду примерно через 10 минут.</item>
+        <item>Начинайте без меня.</item>
+        <item>"Не успеваю. Придется перенести."</item>
     </string-array>
     <string-array name="timezone_rename_ids">
         <item>Australia/Darwin</item>
