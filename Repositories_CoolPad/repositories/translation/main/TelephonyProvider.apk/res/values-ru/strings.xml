@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_label">Хранилище номеров и сообщений</string>
-    <string name="note_database_upgrade">"Система обновляется. Не выключайте устройство!"</string>
-</resources>
