@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Виджет Календарь</string>
+    <string name="choose_date">Выберите дату</string>
+    <string name="add_account">Добавить аккаунт</string>
+    <string name="no_target_activity">Служба Календарь должна быть включена, включите её в первую очередь.</string>
+    <string name="no_account_title">Нет аккаунтов в Календаре</string>
+    <string name="no_account_content">Прежде чем вы сможете запросить синхронизацию, необходимо добавить по крайней мере учётную запись календаря на устройство и сделать календарь видимым(синхронизировать). Нажмите Добавить учетную запись, чтобы добавить учетную запись (если вы только что добавили аккаунт, подождите, пока он закончить синхронизацию и повторите попытку). Или нажмите Отмена и убедитесь, что по крайней мере одна учётная запись синхронизирована.</string>
+    <string name="monday">Пнд.</string>
+    <string name="tuesday">Втр.</string>
+    <string name="wednesday">Срд.</string>
+    <string name="thursday">Чтв.</string>
+    <string name="friday">Птн.</string>
+    <string name="saturday">Сбт.</string>
+    <string name="sunday">Вск.</string>
+    <string name="no_exchange">Добавить аккаунт. Нужно будет создать exchange сервис!</string>
+</resources>
