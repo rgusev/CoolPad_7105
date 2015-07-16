@@ -146,8 +146,8 @@
         <item>1</item>
     </string-array>
     <string-array name="agps_network_entries">
-        <item>Home network</item>
-        <item>All network</item>
+        <item>Домашняя сеть</item>
+        <item>Все сети</item>
     </string-array>
     <string-array name="agps_si_mode_values">
         <item>0</item>
@@ -384,108 +384,108 @@
         <item>SD-карта</item> 
     </string-array>
     <string-array name="app_install_location_values">
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
+        <item>память устройства</item>
+        <item>sd-карта</item>
+        <item>По выбору системы</item>
     </string-array>
     <string-array name="app_ops_permissions">
-        <item>Allowed</item>
-        <item>Ignored</item>
-        <item>Always ask</item>
+        <item>Разрешить</item>
+        <item>Игнорировать</item>
+        <item>Всегда спрашивать</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Location</item>
-        <item>Personal</item>
-        <item>Messaging</item>
+        <item>Местоположение</item>
+        <item>Личные данные</item>
+        <item>SMS/MMS</item>
         <item>Media</item>
-        <item>Device</item>
+        <item>Устройство</item>
         <item>Bootup</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>приблизительное местоположение</item>
+        <item>точное местоположение</item>
         <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>write contacts</item>
-        <item>read call log</item>
-        <item>write call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
-        <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
+        <item>вибросигнал</item>
+        <item>считывать данные контактов</item>
+        <item>изменение контактов</item>
+        <item>просмотр списка вызовов</item>
+        <item>изменение списка вызовов</item>
+        <item>считывать данные календаря</item>
+        <item>изменение заметок календаря</item>
+        <item>поиск Wi-Fi</item>
+        <item>уведомление</item>
+        <item>поиск мобильных сетей</item>
+        <item>позвонить</item>
+        <item>чтение SMS</item>
+        <item>создание SMS</item>
+        <item>получение SMS</item>
+        <item>получение экстренных SMS</item>
+        <item>получение MMS</item>
+        <item>получение сообщений WAP PUSH</item>
+        <item>отправка SMS</item>
+        <item>чтение SMS со смарт-карты</item>
+        <item>запись SMS на смарт-карту</item>
+        <item>изменение настроек</item>
+        <item>отображать поверх других элементов</item>
+        <item>доступ к уведомлениям</item>
+        <item>камера</item>
+        <item>записать аудио</item>
+        <item>воспроизвести аудио</item>
+        <item>считать из буфера обмена</item>
+        <item>изменить буфер обмена</item>
         <item>media buttons</item>
         <item>audio focus</item>
         <item>master volume</item>
-        <item>voice volume</item>
-        <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
+        <item>громкость разговора</item>
+        <item>громкость звонка</item>
+        <item>громкость музыки</item>
+        <item>громкость предупреждений</item>
+        <item>громкость уведомлений</item>
+        <item>громкость bluetooth</item>
         <item>keep awake</item>
         <item>monitor location</item>
         <item>monitor high power location</item>
         <item>wlan change</item>
         <item>bluetooth change</item>
         <item>data change</item>
-        <item>send MMS</item>
-        <item>read MMS</item>
-        <item>write MMS</item>
+        <item>отправить MMS</item>
+        <item>читать MMS</item>
+        <item>создать MMS</item>
         <item>auto start</item>
         <item>nfc change</item>
-        <item>delete SMS</item>
-        <item>delete MMS</item>
-        <item>delete contacts</item>
-        <item>delete call log</item>
+        <item>удалить SMS</item>
+        <item>удалить MMS</item>
+        <item>удалить контакты</item>
+        <item>удалить списка вызовов</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Location</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибросигнал</item>
+        <item>Прочитать контакты</item>
         <item>Write contacts</item>
-        <item>Read call log</item>
+        <item>Прочитать список звонков</item>
         <item>Write call log</item>
         <item>Read calendar</item>
         <item>Modify calendar</item>
-        <item>Location</item>
+        <item>Местоположение</item>
         <item>Post notification</item>
-        <item>Location</item>
-        <item>Call phone</item>
-        <item>Read SMS</item>
-        <item>Write SMS</item>
-        <item>Receive SMS</item>
-        <item>Receive SMS</item>
-        <item>Receive MMS</item>
-        <item>Receive SMS</item>
-        <item>Send SMS</item>
-        <item>Read SMS</item>
-        <item>Write SMS</item>
-        <item>Modify settings</item>
-        <item>Draw on top</item>
-        <item>Access notifications</item>
-        <item>Camera</item>
+        <item>Местоположение</item>
+        <item>Вызов</item>
+        <item>Читать SMS</item>
+        <item>Создать SMS</item>
+        <item>Получить SMS</item>
+        <item>Получить SMS</item>
+        <item>Получить MMS</item>
+        <item>Получить SMS</item>
+        <item>Отправить SMS</item>
+        <item>Прочитать SMS</item>
+        <item>Создать SMS</item>
+        <item>Изменение настроек</item>
+        <item>Отображать поверх других элементов</item>
+        <item>Доступ к уведомлениям</item>
+        <item>Камера</item>
         <item>Record audio</item>
         <item>Play audio</item>
         <item>Read clipboard</item>
@@ -500,20 +500,20 @@
         <item>Notification volume</item>
         <item>Bluetooth volume</item>
         <item>Keep awake</item>
-        <item>Location</item>
-        <item>Location</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
         <item>WLAN change</item>
         <item>Bluetooth change</item>
         <item>Data change</item>
-        <item>Send MMS</item>
-        <item>Read MMS</item>
-        <item>Write MMS</item>
+        <item>Отправить MMS</item>
+        <item>Прочитать MMS</item>
+        <item>Записать MMS</item>
         <item>Auto start</item>
         <item>Nfc change</item>
-        <item>Delete SMS</item>
-        <item>Delete MMS</item>
-        <item>Delete contacts</item>
-        <item>Delete call log</item>
+        <item>Удалить SMS</item>
+        <item>Удалить MMS</item>
+        <item>Удалить контакты</item>
+        <item>Удалить список звонков</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>
@@ -526,7 +526,7 @@
         <item>1500</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
-        <item>Default</item>
+        <item>Поумолчанию</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
         <item>Serif</item>
@@ -540,11 +540,11 @@
         <item>monospace</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Very small</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Very large</item>
+        <item>Очень маленький</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Очень большой</item>
     </string-array>
     <string-array name="captioning_font_size_selector_values">
         <item>0.25</item>
@@ -652,11 +652,11 @@
         <item>0xffffffff</item>
     </integer-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>White on black</item>
-        <item>Black on white</item>
-        <item>Yellow on black</item>
-        <item>Yellow on blue</item>
-        <item>Custom</item>
+        <item>Белое на чёрном</item>
+        <item>Чёрное на белом</item>
+        <item>Жёлтое на чёрном</item>
+        <item>Жёлтое на голубом</item>
+        <item>Ваш выбор</item>
     </string-array>
     <integer-array name="captioning_preset_selector_values">
         <item>0</item>
