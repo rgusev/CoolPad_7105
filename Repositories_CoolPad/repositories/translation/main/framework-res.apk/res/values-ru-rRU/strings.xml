@@ -1424,7 +1424,6 @@
     <string name="wifi_display_notification_connecting_title">Подключение к удаленному дисплею</string>
     <string name="wifi_display_notification_connecting_message">Подключение к %1$s</string>
     <string name="wifi_display_notification_connected_message">Подключено к %1$s</string>
-    <string name="wifi_display_notification_connected_message">Подключено к %1$s</string>
     <string name="wifi_display_notification_disconnect">Отключить</string>
     <string name="kg_emergency_call_label">Экстренный вызов</string>
     <string name="kg_forgot_pattern_button_text">Забыли графический ключ?</string>
@@ -1649,4 +1648,6 @@
     <string name="webviewchromium_profiler_stopped_toast">Профилирование завершено. Результаты сохранены в файле %1$s.</string>
     <string name="webviewchromium_profiler_no_storage_toast">"Не удалось запустить профилировщик: не подготовлен внешний накопитель"</string>
     <string name="webviewchromium_profiler_error_toast">Не удалось запустить профилировщик</string>
+    <string name="keyguard_password_pin_failed">PIN не принят ситемой!</string>
+    <string name="keyguard_password_puk_failed">PUK не принят ситемой!</string>
 </resources>

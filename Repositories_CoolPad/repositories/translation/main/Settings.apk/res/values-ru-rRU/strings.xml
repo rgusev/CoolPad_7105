@@ -2198,7 +2198,7 @@ Step 2: Нажмите на экран двумя пальцами и не от
     <string name="user_picture_title">Документ с фото</string>
     <string name="cell_broadcast_settings">Широковещательная передача сообщений</string>
     <string name="user_restrictions_title">Доступ к контенту и приложениям</string>
-    <string name="user_rename">ПЕРЕИМЕНОВАТЬ</string>++
+    <string name="user_rename">ПЕРЕИМЕНОВАТЬ</string>
     <string name="app_restrictions_custom_label">Настроить ограничения</string>
     <string name="user_restrictions_controlled_by">Под управлением приложения %1$s</string>
     <string name="app_not_supported_in_limited">Приложение не поддерживается в профилях с ограниченным доступом</string>
