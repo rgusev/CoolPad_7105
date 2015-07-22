@@ -36,7 +36,7 @@
     <feature name="android.software.app_widgets" />
     <feature name="android.software.home_screen" />
     <feature name="android.software.input_methods" />
-	<feature name="android.hardware.usb.host" />
+    <feature name="android.hardware.usb.host" />
     <!-- Feature to specify if the device supports adding device admins. -->
     <feature name="android.software.device_admin" />
     <!-- devices with GPS must include android.hardware.location.gps.xml -->
